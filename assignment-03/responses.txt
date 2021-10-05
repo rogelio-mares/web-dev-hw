@@ -1,0 +1,13 @@
+1. Provide three websites that you enjoy visiting?
+    Stussy.com
+    Supreme.com
+    Flightclub.com
+
+2. What is the relationship between an IP address and the DNS?
+    The DNS is in charge of making the data is sent to a specific address. The DNS provides the association between a Domain Name and its IP Address.
+
+3. What is a cookie?
+    Cookies are text files with small pieces of datathat are used to identify your computer as you use a computer network. 
+
+4. List the three essential parts of a URL.
+    The three basic parts of a URL you should understand are the protocol, the domain name and the path.
